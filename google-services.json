@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823830677181",
+    "project_id": "gammirislk-b1880",
+    "storage_bucket": "gammirislk-b1880.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823830677181:android:23c26cb6f7fb5f7818d9d4",
+        "android_client_info": {
+          "package_name": "com.gammiris.lk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1q68t8pQWyY3Uog3iJ-g8665TaLNWmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
