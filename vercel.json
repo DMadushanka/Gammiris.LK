@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd gammiris-web && npm install && npm run build",
+  "outputDirectory": "gammiris-web/dist",
+  "installCommand": "cd gammiris-web && npm install",
+  "framework": "vite"
+}
